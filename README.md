@@ -2,7 +2,7 @@
 
 Docker image for executing the go library [tdewolff/minify](https://github.com/tdewolff/minify)
 
-[![ImageLayers](https://imagelayers.io/badge/mysocialobservations/minify:latest.svg)](https://imagelayers.io/?images=mysocialobservations/minify:latest 'Get your own badge on imagelayers.io')
+[![ImageLayers](https://imagelayers.io/badge/mysocialobservations/docker-tdewolff-minify:latest.svg)](https://imagelayers.io/?images=mysocialobservations/docker-tdewolff-minify:latest 'Get your own badge on imagelayers.io')
 
 For documentation on the go command line tools visit
 [cmd](https://github.com/tdewolff/minify/tree/master/cmd/minify) 
