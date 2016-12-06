@@ -1,0 +1,6 @@
+version: '2'
+
+services:
+  tdewolff-minify:
+    build: .
+    image: mysocialobservations/tdewolff-minify
