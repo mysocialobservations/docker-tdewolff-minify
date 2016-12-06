@@ -4,6 +4,11 @@ Docker image for executing the go library [tdewolff/minify](https://github.com/t
 
 [![ImageLayers](https://imagelayers.io/badge/mysocialobservations/docker-tdewolff-minify:latest.svg)](https://imagelayers.io/?images=mysocialobservations/docker-tdewolff-minify:latest 'Get your own badge on imagelayers.io')
 
+[![dockeri.co](http://dockeri.co/image/mysocialobservations/docker-tdewolff-minify)](https://hub.docker.com/r/mysocialobservations/docker-tdewolff-minify/)
+
+[![GitHub issues](https://img.shields.io/github/issues/mysocialobservations/docker-tdewolff-minify.svg "GitHub issues")](https://github.com/mysocialobservations/docker-tdewolff-minify/issues)
+[![GitHub stars](https://img.shields.io/github/stars/mysocialobservations/docker-tdewolff-minify.svg "GitHub stars")](https://github.com/mysocialobservations/docker-tdewolff-minify)
+
 For documentation on the go command line tools visit
 [cmd](https://github.com/tdewolff/minify/tree/master/cmd/minify) 
 
